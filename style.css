@@ -1,0 +1,74 @@
+*{
+    background-color: gray;
+    margin: 0.1em;
+}
+.Halamanutama{
+    font-size: 100px;
+    text-align: center;
+}
+.namagame{
+    font-size: 50px;
+    text-align: center;
+}
+.header{
+    font-size: 3em;
+    text-align: center;
+}
+
+/* .player{
+    flex-shrink: 1; 
+} 
+.computer{
+    flex-shrink: 1; 
+}  */
+.player-player1{
+    font-size: 2.5em;
+    padding-right: 60%;
+    padding-left: 1em;
+    
+}
+
+.player-player2{
+    font-size: 2.5em;
+    /* padding-left: .5em; */
+    margin-left: 75%;   
+}
+
+.skor{
+    display: inline;
+}
+
+.skor1{
+    padding-left: 10%;
+    padding-right: 50%;
+    margin-right: 3em;
+}
+.skor2{
+    padding-right: 1    0%;
+    margin-left: 15% ;
+}
+
+.tombol  {
+    text-align: center;
+    border-radius: 50%;
+}
+.movesleft  {
+    text-align: center;
+    border-radius: 50%;
+}
+.reload  {
+    text-align: center;
+    margin-left: 50%;
+}
+.move{
+    text-align: center;
+    font-size: 2.5em;
+}
+.result{
+    text-align: center  ;
+}
+.tombol img{
+    width: 100px;
+    height: 100px ;
+    display: inline-block;
+}   
